@@ -362,7 +362,7 @@ a {
 }
 
 .section-title h2 {
-  font-size: clamp(1.125rem, 0.906rem + 1.09vw, 2rem);
+  font-size: clamp(1rem, 0.969rem + 0.16vw, 1.125rem);
   /* font-size: 32px; */
   font-weight: 700;
   margin-bottom: 20px;
@@ -487,7 +487,7 @@ a {
 }
 
 .description {
-  font-size: clamp(0.75rem, 0.719rem + 0.16vw, 0.875rem);
+  font-size: clamp(0.875rem, 0.844rem + 0.16vw, 1rem);
 }
 
 .container-kineinricht {
