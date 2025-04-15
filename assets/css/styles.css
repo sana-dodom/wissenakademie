@@ -465,7 +465,7 @@ a {
   }
   
   .grid__item__cta a {
-      font-size: 0.9rem;
+      font-size: clamp(0.625rem, 0.563rem + 0.31vw, 0.875rem);
       font-weight: bold;
       color: currentColor;
       text-decoration: none;
